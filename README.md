@@ -47,17 +47,8 @@ jobs:
 
 
 
-### 6. Screenshots to Capture
+### 3. Screenshots to Capture
 
-**Successful Pipeline:**
-- Navigate to Actions tab in GitHub
-- Click on the workflow run
-- Screenshot showing all green checkmarks ✓
-
-**Failed Pipeline:**
-- Trigger a failure (intentional error in code)
-- Screenshot showing red X and error logs
-- Screenshot of the error message in the logs
 
 ---
 
