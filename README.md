@@ -49,7 +49,28 @@ jobs:
 
 ### 3. Screenshots to Capture
 
+# GitHub Action Screenshots
 
+## 1. GitHub Action Runner Setup
+![GitHub Action Runner](Screenshot/Github_action_runner.png)
+
+## 2. Runner Working Status
+![Runner Working](Screenshot/Runner_working.png)
+
+## 3. Job Status (Failed & Success)
+![Failed and Success Job](Screenshot/failed_and_success_job.png)
+
+## 4. Failed Pipeline View
+![Failed Pipeline](Screenshot/failed_pipeline.png)
+
+## 5. Private Key Configuration
+![Private Key](Screenshot/private_key.png)
+
+## 6. Successful Pipeline
+![Successful Pipeline](Screenshot/successful_ipeline.png)
+
+## 7. Successful Runner Test
+![Successful Runner Test](Screenshot/successful_runner_test.png)
 ---
 
 ## CONCEPT EXPLANATIONS
