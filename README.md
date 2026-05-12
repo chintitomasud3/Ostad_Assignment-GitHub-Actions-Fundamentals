@@ -124,4 +124,4 @@ A **self-hosted runner** is a server/computer that you manage and configure to e
 
 ---
 
-**Note**: Ensure your self-hosted runner is running before pushing code. The runner must be online to pick up and execute jobs!
+
