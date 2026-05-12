@@ -3,7 +3,7 @@ name: SSH Connect_OSTAD
 on:
   push:
     branches:
-      - main
+      - Development
 
 jobs:
   ssh-test:
